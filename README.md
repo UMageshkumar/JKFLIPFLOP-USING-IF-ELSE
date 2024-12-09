@@ -1,6 +1,6 @@
 # NAME:U.MAGESHKUMAR
 # REGNO:24005417
-# EXPNO7:JK_flipflop
+# EXPNO5:JK_flipflop
 
 # AIM: 
 
