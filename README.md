@@ -1,6 +1,6 @@
-# NAME:U.MAGESHKUMAR
-# REGNO:24005417
-# EXPNO5:JK_flipflop
+### NAME:U.MAGESHKUMAR
+### REGNO:24005417
+# EXPNO5:Implementation of JK flipflop
 
 # AIM: 
 
